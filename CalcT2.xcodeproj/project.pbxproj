@@ -157,7 +157,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
-				ORGANIZATIONNAME = "Efren Alejandro Barroso Llanes";
+				ORGANIZATIONNAME = Ef;
 				TargetAttributes = {
 					723B1EA91B1AABE600E49701 = {
 						CreatedOnToolsVersion = 6.3.2;
